@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Embed Google Slides</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f9;
+        }
+        iframe {
+            border: none;
+            width: 80%;
+            height: 90%;
+        }
+    </style>
+</head>
+<body>
+    <!-- Ganti URL di bawah ini dengan link publik Google Slides Anda -->
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTGWWaON54k8rddHtNwxtQKFBjU4vMfm4RleN9jJBoJNdvCPvd7S2NKJ9p5T2ok9qOJcniwqNdn7Six/pub?start=true&loop=true&delayms=10000" 
+            allowfullscreen></iframe>
+</body>
+</html>
