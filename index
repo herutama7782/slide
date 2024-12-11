@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>Presentasi Online</h1>
-    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTjxLmhPbEEm7Hjjq1Bodlg6tSgfjjpZxLZkt0YpHv_6LVc5Ot-2xygYRSR1hBYO1vOP-8R4vgeN7F-x/pub?start=false&loop=false&delayms=3000"
+    <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQv2ssuwAGaG6cmtpFOrNvBKpCpPPqrD6bN8_IewcjKuCt-tRgLvS7_dRW3pWn7lIGS1R6NbdiqtiET/embed?start=true&loop=true&delayms=10000"
             width="960" height="569" frameborder="0" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 </body>
 </html>
